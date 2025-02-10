@@ -5,7 +5,8 @@ body{
     font-family: "Source Code Pro", serif;
 }
 footer{
-    background-color:#52247F;
-    color:#FFCF01;
-    font-style:bold;
+    background-color:#231161;
+    color:#C99700;
+    font-weight:bold;
+    text-align: center;
 }
