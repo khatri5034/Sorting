@@ -1,0 +1,11 @@
+body{
+    font-family: "Inter", serif;
+}
+.language-javascript{
+    font-family: "Source Code Pro", serif;
+}
+footer{
+    background-color:#52247F;
+    color:#FFCF01;
+    font-style:bold;
+}
